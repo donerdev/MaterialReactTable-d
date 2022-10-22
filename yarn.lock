@@ -1008,10 +1008,10 @@ magic-string@^0.26.2:
   dependencies:
     sourcemap-codec "^1.4.8"
 
-material-react-table@^1.1.0-beta.0:
-  version "1.1.0-beta.0"
-  resolved "https://registry.yarnpkg.com/material-react-table/-/material-react-table-1.1.0-beta.0.tgz#6aac7cca2058ea62371b235b3245980b459432b3"
-  integrity sha512-fQrrNFGbfy+DEBynQzPss9fniFP7RD+0o5lH3JNj+kuM2FBvgf0WbP54Udx9oHIlBZpQlkP1UVVjPYnVP3ZWIQ==
+material-react-table@^1.2.10:
+  version "1.2.10"
+  resolved "https://registry.yarnpkg.com/material-react-table/-/material-react-table-1.2.10.tgz#02bdc5bcb06e831f9a21fde7bb88bd2a47a8efc9"
+  integrity sha512-PV/pbXclwYQtToea2vG5mlScLLyTzoBh57UWMZBUBUmWldAFo7qY1HN1oCrqD+I1uzUoFR8AhnL0HB2TDM4k0Q==
   dependencies:
     "@tanstack/match-sorter-utils" "8.1.1"
     "@tanstack/react-table" "8.5.13"
